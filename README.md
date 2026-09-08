@@ -17,7 +17,6 @@ Dart · Flutter · Bloc · GoRouter · Python · JavaScript · TypeScript
 
 | Package | Version | Likes | Downloads |
 |---|---|---|---|
-| [pushed](https://pub.dev/packages/pushed) | ![version](https://img.shields.io/pub/v/pushed) | ![likes](https://img.shields.io/pub/likes/pushed) | ![downloads](https://img.shields.io/pub/dm/pushed) |
 | [flutter_value_notifier](https://pub.dev/packages/flutter_value_notifier) | ![version](https://img.shields.io/pub/v/flutter_value_notifier) | ![likes](https://img.shields.io/pub/likes/flutter_value_notifier) | ![downloads](https://img.shields.io/pub/dm/flutter_value_notifier) |
 | [flakes](https://pub.dev/packages/flakes) | ![version](https://img.shields.io/pub/v/flakes) | ![likes](https://img.shields.io/pub/likes/flakes) | ![downloads](https://img.shields.io/pub/dm/flakes) |
 
